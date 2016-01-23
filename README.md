@@ -1,4 +1,4 @@
-# RFID Reader Program
+# RFID Reader Application
 
 An RFID reader application written in C++ using Win32 and SkyeTek API. Simply run the application, connect it to your RFID reading device and scan some RFID tags. Data about the tags will be displayed onto the screen for your viewing.
 
