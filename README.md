@@ -14,3 +14,6 @@ Open up the RFIDReader.sln file in Visual Studio and run the program. Everything
 
 # Design Document
 The design document for the program is the DesignDocument.pdf. That is where you will see state diagrams regarding how the program was planned to be structured, along with pseudocode.
+
+# Collaboration
+This project was written in collaboration with Dhivya Manohar (https://github.com/DhivyaManohari)
